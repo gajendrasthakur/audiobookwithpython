@@ -1,7 +1,7 @@
 '''
 Collected by :- GAJENDRA SINGH THAKUR
 http://gajendrasingh.tech/
-Source :- Google
+Source :- Google & Some Webpages
 '''
 from PyPDF2 import pdf
 import pyttsx3,PyPDF2
